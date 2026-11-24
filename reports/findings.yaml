@@ -43,10 +43,10 @@ data_issues:
     true_levels: 3
 
 tracking:
-  experiment_name: null
-  best_run_id: null
-  registered_model_name: null
-  champion_version: null
+  experiment_name: "G201_MP014_ATM_Cash_Demand"
+  best_run_id: "561f8e5523b24030b0bbf93e7ac532f6"
+  registered_model_name: "MP014_ATM_Cash_Demand"
+  champion_version: 1
 
 monitoring:
   psi:
